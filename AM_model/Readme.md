@@ -50,7 +50,7 @@ python3 test_single.py --problem cvrp --graph_size 80  --run_name temp_val  --va
 
 
 ## Using pre-trained models
-We also provide the models (**meta-AM**, **multi-AM** and **original-AM**) that we have trained on our side (for 24 hours using 1 GPU). They are stored in the `pretrained_models` folder.
+We also provide the models (**meta-AM**, **multi-AM** and **original-AM**) that we have trained on our side. They are stored in the `pretrained_models` folder.
 
 ### Example to test the meta-model for TSP graph size variation using the pre-trained meta-model
 ```sh
