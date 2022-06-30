@@ -3,6 +3,8 @@
 
 ## Authors: Sahil Manchanda, Sofia Michel, Darko Drakulic and Jean-Marc Andreoli
 
+### Conference: ECML-PKDD 2022
+
 This repository contains the code associated with the paper *On the Generalization of Neural Combinatorial Optimization Heuristics*, accepted at ECML-PKDD 2022. The project consists of 2 folders:
 
 1. AM_Model : meta-learning of an Attention-based model for NCO
